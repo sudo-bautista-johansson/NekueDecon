@@ -24,4 +24,5 @@ parciales o incorrectos:
 Se recomienda usarlas solo para pruebas controladas.
 
 git clone https://github.com/sudo-bautista-johansson/NekueDecon
+
 cd NekueDecon
